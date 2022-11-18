@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:plannner/Screens/intinalPages/LoginPage.dart';
 import 'package:plannner/Screens/intinalPages/RegisterPage.dart';
 import 'package:plannner/Screens/intinalPages/StarterPage.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+import 'Screens/intinalPages/test.dart';
 
 void main() {
   runApp(MaterialApp(
@@ -14,6 +18,7 @@ void main() {
       '/Login': (context) => const LoginIn(),
       // When navigating to the "/second" route, build the SecondScreen widget.
       '/Register': (context) => const Register(),
+      '/test': (context) => const test(),
     },
   ));
 }

@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "626187938085",
+    "project_id": "planner-maker",
+    "storage_bucket": "planner-maker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626187938085:android:6f06fc860df679c2ef52cc",
+        "android_client_info": {
+          "package_name": "com.example.plannner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626187938085-g3h0d0vuu01hbo4a07lm4thocptduegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg2VN4R3fXwZ8C6B72PS9IoqU54AN7Vfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626187938085-g3h0d0vuu01hbo4a07lm4thocptduegm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626187938085-cspnh08dsndtdco4s15kgsgc9aec2rm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plannner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626187938085:android:27ef5566db9588cfef52cc",
+        "android_client_info": {
+          "package_name": "plannermaker.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626187938085-g3h0d0vuu01hbo4a07lm4thocptduegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg2VN4R3fXwZ8C6B72PS9IoqU54AN7Vfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626187938085-g3h0d0vuu01hbo4a07lm4thocptduegm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626187938085-cspnh08dsndtdco4s15kgsgc9aec2rm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plannner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626187938085:android:a2b5d38edbcb6b84ef52cc",
+        "android_client_info": {
+          "package_name": "werijewriow.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626187938085-g3h0d0vuu01hbo4a07lm4thocptduegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg2VN4R3fXwZ8C6B72PS9IoqU54AN7Vfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626187938085-g3h0d0vuu01hbo4a07lm4thocptduegm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626187938085-cspnh08dsndtdco4s15kgsgc9aec2rm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plannner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
