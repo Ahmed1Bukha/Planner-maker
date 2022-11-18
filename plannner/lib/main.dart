@@ -3,11 +3,13 @@ import 'package:plannner/Screens/intinalPages/LoginPage.dart';
 import 'package:plannner/Screens/intinalPages/RegisterPage.dart';
 import 'package:plannner/Screens/intinalPages/StarterPage.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'Screens/intinalPages/test.dart';
 
-void main() {
+void main() async {
+   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+
   runApp(MaterialApp(
     title: 'Named Routes Demo',
     // Start the app with the "/" named route. In this case, the app starts
